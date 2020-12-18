@@ -54,7 +54,7 @@ Examples here are given in both JavaScript and Java.
 
 A copy of the PaperNet commercial paper smart contract is contained in a single
 file. View it with your browser, or open it in your favorite editor if you've downloaded it.
-  - `papercontract.js` - [JavaScript version](https://github.com/hyperledger/fabric-samples/blob/{BRANCH}/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js)
+  - `papercontract.js` - [JavaScript version](https://github.com/hyperledger/fabric-samples/blob/master/commercial-paper/organization/magnetocorp/contract/lib/papercontract.js)
   - `CommercialPaperContract.java` - [Java version](https://github.com/hyperledger/fabric-samples/blob/{BRANCH}/commercial-paper/organization/magnetocorp//contract-java/src/main/java/org/example/CommercialPaperContract.java)
 
 
